@@ -1,0 +1,4 @@
+species,avg_sepal_length,avg_sepal_width,avg_petal_length,avg_petal_width,avg_petal_area,flower_count
+setosa,5.01,3.43,1.46,0.25,0.37,48
+versicolor,5.94,2.77,4.26,1.33,5.72,50
+virginica,6.6,2.98,5.56,2.03,11.33,49
